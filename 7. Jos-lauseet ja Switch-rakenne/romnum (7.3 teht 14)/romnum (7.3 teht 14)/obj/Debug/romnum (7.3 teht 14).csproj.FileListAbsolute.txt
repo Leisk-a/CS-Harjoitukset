@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\bin\Debug\romnum (7.3 teht 14).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\bin\Debug\romnum (7.3 teht 14).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\bin\Debug\romnum (7.3 teht 14).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\obj\Debug\romnum (7.3 teht 14).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\obj\Debug\romnum (7.3 teht 14).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\obj\Debug\romnum (7.3 teht 14).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\romnum (7.3 teht 14)\romnum (7.3 teht 14)\obj\Debug\romnum (7.3 teht 14).pdb

@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\bin\Debug\etukasi (10.3 teht 9).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\bin\Debug\etukasi (10.3 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\bin\Debug\etukasi (10.3 teht 9).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\obj\Debug\etukasi (10.3 teht 9).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\obj\Debug\etukasi (10.3 teht 9).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\obj\Debug\etukasi (10.3 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\etukasi (10.3 teht 9)\etukasi (10.3 teht 9)\obj\Debug\etukasi (10.3 teht 9).pdb

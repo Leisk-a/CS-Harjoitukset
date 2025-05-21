@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\bin\Debug\Comb (11.2 teht 9).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\bin\Debug\Comb (11.2 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\bin\Debug\Comb (11.2 teht 9).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\obj\Debug\Comb (11.2 teht 9).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\obj\Debug\Comb (11.2 teht 9).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\obj\Debug\Comb (11.2 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Comb (11.2 teht 9)\Comb (11.2 teht 9)\obj\Debug\Comb (11.2 teht 9).pdb

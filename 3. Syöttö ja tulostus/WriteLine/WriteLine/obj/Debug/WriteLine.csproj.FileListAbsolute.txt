@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\obj\Debug\WriteLine.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\obj\Debug\WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\bin\Debug\WriteLine.exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\bin\Debug\WriteLine.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\bin\Debug\WriteLine.pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\obj\Debug\WriteLine.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\WriteLine\WriteLine\obj\Debug\WriteLine.pdb

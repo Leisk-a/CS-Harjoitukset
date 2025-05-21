@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\4. Tietotyypit ja muuttujat\\C - F (4.2 teht 6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9654FDB-7B4F-4124-AC16-211660C59B3B}|C - F (4.2 teht 6)\\C - F (4.2 teht 6).csproj|c:\\users\\nicol\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\digicampus\\ohjelmoinnin perusteet\\4. tietotyypit ja muuttujat\\c - f (4.2 teht 6)\\c - f (4.2 teht 6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9654FDB-7B4F-4124-AC16-211660C59B3B}|C - F (4.2 teht 6)\\C - F (4.2 teht 6).csproj|solutionrelative:c - f (4.2 teht 6)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\4. Tietotyypit ja muuttujat\\C - F (4.2 teht 6)\\C - F (4.2 teht 6)\\Program.cs",
+              "RelativeDocumentMoniker": "C - F (4.2 teht 6)\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\4. Tietotyypit ja muuttujat\\C - F (4.2 teht 6)\\C - F (4.2 teht 6)\\Program.cs",
+              "RelativeToolTip": "C - F (4.2 teht 6)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:03:50.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\bin\Debug\kääntö (10.3 teht 13).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\bin\Debug\kääntö (10.3 teht 13).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\bin\Debug\kääntö (10.3 teht 13).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\obj\Debug\kääntö (10.3 teht 13).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\obj\Debug\kääntö (10.3 teht 13).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\obj\Debug\kääntö (10.3 teht 13).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\kääntö (10.3 teht 13)\kääntö (10.3 teht 13)\obj\Debug\kääntö (10.3 teht 13).pdb

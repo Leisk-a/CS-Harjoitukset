@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\bin\Debug\esimkoodit (6.4 teht 3).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\bin\Debug\esimkoodit (6.4 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\bin\Debug\esimkoodit (6.4 teht 3).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\obj\Debug\esimkoodit (6.4 teht 3).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\obj\Debug\esimkoodit (6.4 teht 3).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\obj\Debug\esimkoodit (6.4 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\esimkoodit (6.4 teht 3)\esimkoodit (6.4 teht 3)\obj\Debug\esimkoodit (6.4 teht 3).pdb

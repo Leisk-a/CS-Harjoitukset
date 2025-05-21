@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\bin\Debug\K,P,S (14.1 teht 3).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\bin\Debug\K,P,S (14.1 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\bin\Debug\K,P,S (14.1 teht 3).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\obj\Debug\K,P,S (14.1 teht 3).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\obj\Debug\K,P,S (14.1 teht 3).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\obj\Debug\K,P,S (14.1 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\K,P,S (14.1 teht 3)\K,P,S (14.1 teht 3)\obj\Debug\K,P,S (14.1 teht 3).pdb

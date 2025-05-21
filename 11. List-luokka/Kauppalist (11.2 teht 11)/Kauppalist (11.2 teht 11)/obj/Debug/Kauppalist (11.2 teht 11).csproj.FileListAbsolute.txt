@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\bin\Debug\Kauppalist (11.2 teht 11).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\bin\Debug\Kauppalist (11.2 teht 11).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\bin\Debug\Kauppalist (11.2 teht 11).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\obj\Debug\Kauppalist (11.2 teht 11).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\obj\Debug\Kauppalist (11.2 teht 11).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\obj\Debug\Kauppalist (11.2 teht 11).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Kauppalist (11.2 teht 11)\Kauppalist (11.2 teht 11)\obj\Debug\Kauppalist (11.2 teht 11).pdb

@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\bin\Debug\vaika (7.3 teht 11).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\bin\Debug\vaika (7.3 teht 11).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\bin\Debug\vaika (7.3 teht 11).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\obj\Debug\vaika (7.3 teht 11).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\obj\Debug\vaika (7.3 teht 11).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\obj\Debug\vaika (7.3 teht 11).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\vaika (7.3 teht 11)\vaika (7.3 teht 11)\obj\Debug\vaika (7.3 teht 11).pdb

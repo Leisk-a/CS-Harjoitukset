@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\bin\Debug\laskin (7.3 teht 10).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\bin\Debug\laskin (7.3 teht 10).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\bin\Debug\laskin (7.3 teht 10).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\obj\Debug\laskin (7.3 teht 10).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\obj\Debug\laskin (7.3 teht 10).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\obj\Debug\laskin (7.3 teht 10).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\laskin (7.3 teht 10)\laskin (7.3 teht 10)\obj\Debug\laskin (7.3 teht 10).pdb

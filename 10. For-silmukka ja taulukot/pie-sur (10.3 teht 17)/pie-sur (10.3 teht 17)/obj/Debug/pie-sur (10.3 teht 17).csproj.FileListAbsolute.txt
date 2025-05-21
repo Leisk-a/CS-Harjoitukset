@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\bin\Debug\pie-sur (10.3 teht 17).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\bin\Debug\pie-sur (10.3 teht 17).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\bin\Debug\pie-sur (10.3 teht 17).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\obj\Debug\pie-sur (10.3 teht 17).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\obj\Debug\pie-sur (10.3 teht 17).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\obj\Debug\pie-sur (10.3 teht 17).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\pie-sur (10.3 teht 17)\pie-sur (10.3 teht 17)\obj\Debug\pie-sur (10.3 teht 17).pdb

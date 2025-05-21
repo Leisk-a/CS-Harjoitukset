@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\7. Jos-lauseet ja Switch-rakenne\\merkij (7.3 teht 7)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EF7D6FE-3D57-4A0F-A1F8-24FDBC6EF641}|merkij (7.3 teht 7)\\merkij (7.3 teht 7).csproj|c:\\users\\nicol\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\digicampus\\ohjelmoinnin perusteet\\7. jos-lauseet ja switch-rakenne\\merkij (7.3 teht 7)\\merkij (7.3 teht 7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EF7D6FE-3D57-4A0F-A1F8-24FDBC6EF641}|merkij (7.3 teht 7)\\merkij (7.3 teht 7).csproj|solutionrelative:merkij (7.3 teht 7)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\7. Jos-lauseet ja Switch-rakenne\\merkij (7.3 teht 7)\\merkij (7.3 teht 7)\\Program.cs",
+              "RelativeDocumentMoniker": "merkij (7.3 teht 7)\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\7. Jos-lauseet ja Switch-rakenne\\merkij (7.3 teht 7)\\merkij (7.3 teht 7)\\Program.cs",
+              "RelativeToolTip": "merkij (7.3 teht 7)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:05:30.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

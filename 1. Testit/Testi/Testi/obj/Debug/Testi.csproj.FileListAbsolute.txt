@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\bin\Debug\Testi.exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\bin\Debug\Testi.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\bin\Debug\Testi.pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\obj\Debug\Testi.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\obj\Debug\Testi.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\obj\Debug\Testi.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\3. Syöttö ja tulostus\Testi\Testi\obj\Debug\Testi.pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\bin\Debug\Testi.exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\bin\Debug\Testi.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\bin\Debug\Testi.pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\obj\Debug\Testi.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\obj\Debug\Testi.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\obj\Debug\Testi.exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\1. Testit\Testi\Testi\obj\Debug\Testi.pdb

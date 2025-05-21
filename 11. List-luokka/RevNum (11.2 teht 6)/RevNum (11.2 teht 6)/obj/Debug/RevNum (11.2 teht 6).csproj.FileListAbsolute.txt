@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\obj\Debug\RevNum (11.2 teht 6).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\obj\Debug\RevNum (11.2 teht 6).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\bin\Debug\RevNum (11.2 teht 6).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\bin\Debug\RevNum (11.2 teht 6).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\bin\Debug\RevNum (11.2 teht 6).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\obj\Debug\RevNum (11.2 teht 6).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\RevNum (11.2 teht 6)\RevNum (11.2 teht 6)\obj\Debug\RevNum (11.2 teht 6).pdb

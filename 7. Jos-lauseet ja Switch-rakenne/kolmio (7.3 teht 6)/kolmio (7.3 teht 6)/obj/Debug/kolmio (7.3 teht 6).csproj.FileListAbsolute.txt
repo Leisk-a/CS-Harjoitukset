@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\bin\Debug\kolmio (7.3 teht 6).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\bin\Debug\kolmio (7.3 teht 6).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\bin\Debug\kolmio (7.3 teht 6).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\obj\Debug\kolmio (7.3 teht 6).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\obj\Debug\kolmio (7.3 teht 6).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\obj\Debug\kolmio (7.3 teht 6).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\7. Jos-lauseet ja Switch-rakenne\kolmio (7.3 teht 6)\kolmio (7.3 teht 6)\obj\Debug\kolmio (7.3 teht 6).pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "etukasi (10.3 teht 9)", "etukasi (10.3 teht 9)\etukasi (10.3 teht 9).csproj", "{8A96B9D2-CF2B-4906-958B-E4E1048CB623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A96B9D2-CF2B-4906-958B-E4E1048CB623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A96B9D2-CF2B-4906-958B-E4E1048CB623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A96B9D2-CF2B-4906-958B-E4E1048CB623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A96B9D2-CF2B-4906-958B-E4E1048CB623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

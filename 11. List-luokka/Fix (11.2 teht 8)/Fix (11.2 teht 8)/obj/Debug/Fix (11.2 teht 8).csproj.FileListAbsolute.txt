@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\bin\Debug\Fix (11.2 teht 8).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\bin\Debug\Fix (11.2 teht 8).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\bin\Debug\Fix (11.2 teht 8).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\obj\Debug\Fix (11.2 teht 8).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\obj\Debug\Fix (11.2 teht 8).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\obj\Debug\Fix (11.2 teht 8).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\11. List-luokka\Fix (11.2 teht 8)\Fix (11.2 teht 8)\obj\Debug\Fix (11.2 teht 8).pdb

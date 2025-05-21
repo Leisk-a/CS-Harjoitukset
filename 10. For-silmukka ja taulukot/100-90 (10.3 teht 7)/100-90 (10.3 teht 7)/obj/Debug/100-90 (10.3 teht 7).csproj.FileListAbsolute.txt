@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\bin\Debug\100-90 (10.3 teht 7).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\bin\Debug\100-90 (10.3 teht 7).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\bin\Debug\100-90 (10.3 teht 7).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\obj\Debug\100-90 (10.3 teht 7).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\obj\Debug\100-90 (10.3 teht 7).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\obj\Debug\100-90 (10.3 teht 7).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\10. For-silmukka ja taulukot\100-90 (10.3 teht 7)\100-90 (10.3 teht 7)\obj\Debug\100-90 (10.3 teht 7).pdb

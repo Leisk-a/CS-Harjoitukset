@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\10. For-silmukka ja taulukot\\t\u00E4hti (10.3 teht 4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B18B029A-AF16-4581-AD21-DF76E79E5B29}|t\u00E4hti (10.3 teht 4)\\t\u00E4hti (10.3 teht 4).csproj|c:\\users\\nicol\\onedrive - salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\digicampus\\ohjelmoinnin perusteet\\10. for-silmukka ja taulukot\\t\u00E4hti (10.3 teht 4)\\t\u00E4hti (10.3 teht 4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B18B029A-AF16-4581-AD21-DF76E79E5B29}|t\u00E4hti (10.3 teht 4)\\t\u00E4hti (10.3 teht 4).csproj|solutionrelative:t\u00E4hti (10.3 teht 4)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\10. For-silmukka ja taulukot\\t\u00E4hti (10.3 teht 4)\\t\u00E4hti (10.3 teht 4)\\Program.cs",
+              "RelativeDocumentMoniker": "t\u00E4hti (10.3 teht 4)\\Program.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive - Salon seudun koulutuskuntayhtym\u00E4\\2024-2025\\Digicampus\\Ohjelmoinnin perusteet\\10. For-silmukka ja taulukot\\t\u00E4hti (10.3 teht 4)\\t\u00E4hti (10.3 teht 4)\\Program.cs",
+              "RelativeToolTip": "t\u00E4hti (10.3 teht 4)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:43:16.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

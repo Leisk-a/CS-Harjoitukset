@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\bin\Debug\Parilliset (8.2 teht 2).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\bin\Debug\Parilliset (8.2 teht 2).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\bin\Debug\Parilliset (8.2 teht 2).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\obj\Debug\Parilliset (8.2 teht 2).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\obj\Debug\Parilliset (8.2 teht 2).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\obj\Debug\Parilliset (8.2 teht 2).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\8. While-silmukka\Parilliset (8.2 teht 2)\Parilliset (8.2 teht 2)\obj\Debug\Parilliset (8.2 teht 2).pdb

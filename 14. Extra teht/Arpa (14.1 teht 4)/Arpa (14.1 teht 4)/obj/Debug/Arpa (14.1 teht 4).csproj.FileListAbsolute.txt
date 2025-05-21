@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\bin\Debug\Arpa (14.1 teht 4).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\bin\Debug\Arpa (14.1 teht 4).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\bin\Debug\Arpa (14.1 teht 4).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\obj\Debug\Arpa (14.1 teht 4).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\obj\Debug\Arpa (14.1 teht 4).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\obj\Debug\Arpa (14.1 teht 4).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\14. Extra teht\Arpa (14.1 teht 4)\Arpa (14.1 teht 4)\obj\Debug\Arpa (14.1 teht 4).pdb

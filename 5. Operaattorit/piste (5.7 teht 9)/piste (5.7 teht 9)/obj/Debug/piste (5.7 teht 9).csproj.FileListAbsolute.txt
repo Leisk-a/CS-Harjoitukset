@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\bin\Debug\piste (5.7 teht 9).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\bin\Debug\piste (5.7 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\bin\Debug\piste (5.7 teht 9).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\obj\Debug\piste (5.7 teht 9).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\obj\Debug\piste (5.7 teht 9).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\obj\Debug\piste (5.7 teht 9).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\piste (5.7 teht 9)\piste (5.7 teht 9)\obj\Debug\piste (5.7 teht 9).pdb

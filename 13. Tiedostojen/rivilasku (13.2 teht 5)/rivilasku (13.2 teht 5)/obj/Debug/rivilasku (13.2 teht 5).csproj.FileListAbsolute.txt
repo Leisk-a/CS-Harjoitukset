@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\bin\Debug\rivilasku (13.2 teht 5).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\bin\Debug\rivilasku (13.2 teht 5).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\bin\Debug\rivilasku (13.2 teht 5).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\obj\Debug\rivilasku (13.2 teht 5).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\obj\Debug\rivilasku (13.2 teht 5).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\obj\Debug\rivilasku (13.2 teht 5).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\13. Tiedostojen\rivilasku (13.2 teht 5)\rivilasku (13.2 teht 5)\obj\Debug\rivilasku (13.2 teht 5).pdb

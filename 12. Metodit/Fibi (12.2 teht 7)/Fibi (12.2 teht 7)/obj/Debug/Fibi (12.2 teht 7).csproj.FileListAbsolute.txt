@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\bin\Debug\Fibi (12.2 teht 7).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\bin\Debug\Fibi (12.2 teht 7).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\bin\Debug\Fibi (12.2 teht 7).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\obj\Debug\Fibi (12.2 teht 7).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\obj\Debug\Fibi (12.2 teht 7).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\obj\Debug\Fibi (12.2 teht 7).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Fibi (12.2 teht 7)\Fibi (12.2 teht 7)\obj\Debug\Fibi (12.2 teht 7).pdb

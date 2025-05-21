@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\bin\Debug\Square (12.2 teht 3).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\bin\Debug\Square (12.2 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\bin\Debug\Square (12.2 teht 3).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\obj\Debug\Square (12.2 teht 3).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\obj\Debug\Square (12.2 teht 3).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\obj\Debug\Square (12.2 teht 3).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\12. Metodit\Square (12.2 teht 3)\Square (12.2 teht 3)\obj\Debug\Square (12.2 teht 3).pdb

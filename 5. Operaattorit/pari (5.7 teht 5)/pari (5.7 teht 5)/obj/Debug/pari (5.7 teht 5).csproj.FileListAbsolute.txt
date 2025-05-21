@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\bin\Debug\pari (5.7 teht 5).exe.config
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\bin\Debug\pari (5.7 teht 5).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\bin\Debug\pari (5.7 teht 5).pdb
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\obj\Debug\pari (5.7 teht 5).csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\obj\Debug\pari (5.7 teht 5).csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\obj\Debug\pari (5.7 teht 5).exe
+C:\Users\nicol\OneDrive - Salon seudun koulutuskuntayhtymä\2024-2025\Digicampus\Ohjelmoinnin perusteet\5. Operaattorit\pari (5.7 teht 5)\pari (5.7 teht 5)\obj\Debug\pari (5.7 teht 5).pdb
